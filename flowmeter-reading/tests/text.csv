@@ -1,0 +1,24 @@
+,pattern,code,company_name
+0,"{'signal': 'Bear', 'date': '2020-01-11'}",532648,YESBANK
+1,"{'signal': 'Bull', 'date': '2020-01-11'}",532839,DISHTV
+2,"{'signal': 'Bear', 'date': '2020-01-11'}",533122,RTNPOWER
+3,"{'signal': 'Bull', 'date': '2020-01-11'}",539310,TISL
+4,"{'signal': 'Bull', 'date': '2020-01-11'}",514183,BLACKROSE
+,pattern,code,company_name
+0,"{'signal': 'Bear', 'date': '2020-01-11'}",532648,YESBANK
+1,"{'signal': 'Bull', 'date': '2020-01-11'}",532839,DISHTV
+2,"{'signal': 'Bear', 'date': '2020-01-11'}",533122,RTNPOWER
+3,"{'signal': 'Bull', 'date': '2020-01-11'}",539310,TISL
+4,"{'signal': 'Bull', 'date': '2020-01-11'}",514183,BLACKROSE
+,pattern,code,company_name
+0,"{'signal': 'Bear', 'date': '2020-01-11'}",532648,YESBANK
+1,"{'signal': 'Bull', 'date': '2020-01-11'}",532839,DISHTV
+2,"{'signal': 'Bear', 'date': '2020-01-11'}",533122,RTNPOWER
+3,"{'signal': 'Bull', 'date': '2020-01-11'}",539310,TISL
+4,"{'signal': 'Bull', 'date': '2020-01-11'}",514183,BLACKROSE
+,signal,date,code,name
+0,Bear,2020-01-11,532648,YESBANK
+1,Bull,2020-01-11,532839,DISHTV
+2,Bear,2020-01-11,533122,RTNPOWER
+3,Bull,2020-01-11,539310,TISL
+4,Bull,2020-01-11,514183,BLACKROSE
